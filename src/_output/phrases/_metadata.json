@@ -1,0 +1,26 @@
+{
+    "smodders_tgimporter.accounts.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "ad00b19d9ac3fe7a54665dbd32d950a0"
+    },
+    "smodders_tgimporter.connected_tfa_providers.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "9efb601bb0f0127b245570ed0de27e7e"
+    },
+    "smodders_tgimporter.previous_installation_not_found.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "9d260c0fddbdec078d0661f3fc083f53"
+    },
+    "smodders_tgimporter.previous_installation_too_old.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "bb918667a2327c85f9eb2888f71d50c8"
+    }
+}

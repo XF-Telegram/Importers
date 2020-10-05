@@ -1,0 +1,17 @@
+{
+    "legacy_addon_id": "",
+    "title": "[Telegram] Importers",
+    "description": "Data importers for latest Telegram add-ons versions from SourceModders",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "SourceModders",
+    "dev_url": "https://board.kruzya.me",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "[Telegram] Core": "https://xenforo.com/community/resources/7579/",
+        "[Paid] [Telegram] Two Factor Authentication": "https://xenforo.com/community/resources/7583/"
+    },
+    "require": [],
+    "icon": "fa-telegram fab"
+}

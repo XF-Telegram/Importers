@@ -1,0 +1,9 @@
+{
+    "event_id": "import_importer_classes",
+    "execute_order": 900,
+    "callback_class": "SModders\\TelegramImporters\\Listener",
+    "callback_method": "onTelegramImporterInitialization",
+    "active": true,
+    "hint": "",
+    "description": "Adds a importers"
+}
